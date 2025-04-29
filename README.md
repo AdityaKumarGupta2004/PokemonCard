@@ -1,2 +1,5 @@
-# PokemonCard
-Simple Pokemon Cards 
+<<<<<<< HEAD
+(your local version)
+=======
+(GitHub version)
+>>>>>>> (commit hash)
